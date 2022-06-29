@@ -13,6 +13,8 @@
 
 - 📄 My Resume [here](https://bit.ly/3ytLHev)
 
+- ⚡ Fun fact **Anime is not cartoon 😤 it's *japanese* cartoon 😂**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/sohamtamboli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sohamtamboli" height="30" width="40" /></a>
