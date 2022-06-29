@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sohamtamboli@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/11a01VmFsNUxzPFGFEaZjVfSD-QtvphLv/view?usp=sharing
+- 📄 My Resume [https://drive.google.com/file/d/11a01VmFsNUxzPFGFEaZjVfSD-QtvphLv/view?usp=sharing](https://bit.ly/3ytLHev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
