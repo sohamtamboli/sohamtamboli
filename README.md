@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Soham Tamboli</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<!-- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohamtamboli&label=Profile%20views&color=0e75b6&style=flat" alt="sohamtamboli" /> </p>
+<h3>A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohamtamboli" alt="sohamtamboli" /></a> </p> -->
+<br />
 
-- 🌱 I’m currently learning **Nextjs, Typescript**
+- 🌱 I’m currently learning **managing life maybe**
 
-- 💬 Ask me about **Reactjs, Vuejs, Nuxtjs, Javascript, Blender3d and Photoshop**
+- 💬 Ask me about **Javascript, Reactjs, Blender3d and Photoshop**
 
 - 📫 How to reach me **sohamtamboli@gmail.com**
 
