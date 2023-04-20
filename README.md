@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Soham Tamboli</h1>
+<h1 align="center">Hi 👋 I'm Soham Tamboli</h1>
 <h3>A passionate frontend developer from India</h3>
 
 <br />
 
 - 🌱 I’m currently learning **managing life maybe**
 
-- 💬 Ask me about **Javascript, Reactjs, Blender3d and Photoshop**
+- 🧠 Ask me about **Javascript, Reactjs, Blender3d and Photoshop**
 
 - 📫 How to reach me **sohamtamboli@gmail.com**
 
